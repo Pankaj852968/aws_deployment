@@ -1,0 +1,29 @@
+
+Hash: SHA256
+
+{
+  "deactivationDate" : "2022-01-30",
+  "features" : [ ],
+  "name" : "Bayer_CLD-202101-264344",
+  "uuid" : "cc9580d5-1bd6-4756-ac09-59c02c9de5bf",
+  "version" : 1,
+  "startDate" : "2021-01-31",
+  "expirationDate" : "2022-01-30"
+}
+-----BEGIN PGP SIGNATURE-----
+Version: BCPG v1.46
+
+iQIcBAEBCAAGBQJgGo/WAAoJECXwRXLmH8tlVDQP/RfmCCv6W9n0cPJKmbPlocJg
+/81Uh3qTijnDcwlkC+ZYLrnDW0mYSM33un9gPdfLILPoq9qcqMBvdReMMETy9z1a
+0QkV1qBl4eR97hZFf+KekKxn9q6B54/fge974YU2a5lhh155wZb+YAKO+br59heR
+7yOvgDVqZBlKs6Y8g0RMqSLkr+hDCg4f4Hidsfl8KUAL2f2G8SgUWQzgfZ68YHF5
+SYAKIarXd7VrADcW0mSMclJAnoR8lRD1CBrsiv+s39QSefi0XEd/ojOUNLwq5hMW
+nwHtRQFgv2Xh4/vSg1BiPUDr1b6clLwYXl8qRas3h7uTteV+hC9ZvCk1J6N0rS0H
+QHaFCsxkx/CK2BtEwWuRMU/5YM0MGZHJsuOcWnBYAARoWpa84BZufji10TlEDtg6
+UU5qIlwWHlMg19b4x3FbjhERzATJILgUtBz+SWFcTU9+jSutJpvYMObvRzDBNn+H
+p7RKIeTJp6UxnbZ8fhfSmpxQkFwlTsAgWwSCMYAGu7axXnQ+Uj4F+4a6veB1MewV
+wWxdnOep0xoJJqCPbrV4qEElHCpZ8JQCwn12IrP0Oix7XA+J1uSmHJseyobzanDp
+T5tUICNw916VMKKiW/EUW5LDAkan0OAVRCR26rc/SbCyvCCkAbuvANsTVkZKzbDb
+xuRxaEa/sRP9EoNoccxc
+=Pr1m
+-----END PGP SIGNATURE-----
